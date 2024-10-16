@@ -28,3 +28,7 @@ int main()
 
     return 0;
 }
+
+/*OUTPUT
+The sorted array is: 12 23 56 78 144 
+    */
