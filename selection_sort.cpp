@@ -24,6 +24,10 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
+
+    /*OUTPUT
+        The sorted array is: 12 23 56 78 144 
+        */
     cout << endl;
 
     return 0;
